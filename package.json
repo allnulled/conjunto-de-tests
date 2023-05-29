@@ -1,0 +1,12 @@
+{
+  "name": "conjunto-de-tests",
+  "version": "1.0.0",
+  "description": "Utilidad rápida para crear subtests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
